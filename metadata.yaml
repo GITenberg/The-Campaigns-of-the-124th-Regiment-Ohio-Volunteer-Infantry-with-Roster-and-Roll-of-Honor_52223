@@ -1,0 +1,26 @@
+_repo: The-Campaigns-of-the-124th-Regiment-Ohio-Volunteer-Infantry-with-Roster-and-Roll-of-Honor_52223
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, G. W. (George W.)
+    alias: Lewis, George W.
+    birthdate: 1837
+    gutenberg_agent_id: '46731'
+    url: http://www.gutenberg.org/2009/agents/46731
+description: ''
+gutenberg_issued: '2016-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. Ohio Infantry Regiment, 124th (1862-1865)'
+- !lcc 'E456'
+- GITenberg
+title: The Campaigns of the 124th Regiment, Ohio Volunteer Infantry, with Roster and
+  Roll of Honor
+url: http://www.gutenberg.org/ebooks/52223
